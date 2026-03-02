@@ -19,3 +19,4 @@ Tive problemas com os codigos pra carregamento, mas com a ajuda de meus colegas 
 - POST
 
   <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/707d9c49-27a8-48fb-8c91-f0f8b359359e" />
+  
